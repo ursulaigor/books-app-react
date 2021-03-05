@@ -1,0 +1,38 @@
+
+h1{
+    margin:0;
+    line-height: 40px;
+    vertical-align: middle;
+}
+
+h1 > img{
+    vertical-align: middle;
+    padding-right: 8px;
+}
+
+.search-bar{
+    margin: 10px 0;
+}
+
+.book{
+    display: inline-block;
+    width: 200px;
+    vertical-align: top;
+    border: 1px solid #eee;
+    margin: 8px;
+    padding: 0 8px;
+    min-height: 300px;
+}
+
+h4{
+    margin: 8px 0;
+}
+
+.book p{
+    height: 8.4em;
+    overflow: hidden;
+    box-sizing: border-box;
+    font-size: 14px;
+    padding: 0;
+    margin: 0;
+}
